@@ -1,0 +1,7 @@
+{
+  "name": "polymer-frontalusos",
+  "short_name": "polymer-frontalusos",
+  "description": "FrontalUsos to obtain oracle data through stored procedures",
+  "start_url": "/",
+  "display": "standalone"
+}
